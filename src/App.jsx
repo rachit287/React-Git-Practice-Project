@@ -6,7 +6,8 @@ import TabButton from "./components/TabButton.jsx";
 import { EXAMPLES } from "./data";
 
 function App() {
-  const [selectedTopic, setSelectedTopic] = useState("");
+  const [selectedTopic, setSelectedTopic] = useState(""); //useState is a hook that allows you to have state variables in functional components. 
+  //useState returns a pair of values: the current state and a function that updates it.
   //what does <pre> tag do?
   //The <pre> tag defines preformatted text.
 
@@ -25,7 +26,7 @@ function App() {
           <h2>Core Concepts</h2>
           <ul>
             {CORE_CONCEPTS.map((concept) => (
-              <CoreConcept key={concept.title} {...concept} />
+              <CoreConcept key={concept.title} {...concept} />  //The spread operator is used to pass the whole object as props.
             ))}
           </ul>
         </section>
