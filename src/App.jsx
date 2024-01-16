@@ -25,7 +25,7 @@ function App() {
           <h2>Core Concepts</h2>
           <ul>
             {CORE_CONCEPTS.map((concept) => (
-              <CoreConcept key={concept.title} {...concept} />
+              <CoreConcept key={concept.title} {...concept} />  //The spread operator is used to pass the whole object as props.
             ))}
           </ul>
         </section>
