@@ -3,13 +3,11 @@ export default function TabButton({children, onSelect, isSelected}){
     return (
       <li>
         <button className={isSelected ? "active" : undefined} onClick={onSelect}>{children}</button> 
+          //children is a prop that is passed to the TabButton component.
       </li>     
 
     );
   }
-
-
-const ARRAY_FOR_FUN = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 
 //what is the li tag's use in this piece of code? Explain. 
