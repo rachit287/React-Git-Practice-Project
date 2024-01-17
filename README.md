@@ -1,6 +1,19 @@
 # React - Essentials, States, Props, Hooks, etc.
 
-Brief description of your project.
+A project that builds the foundation for entering the tech market and allows me creative freedom to try out all the bells and whistles. 
+
+## Technologies 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="35"/>
+  
+- <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite Logo" width="35"/>
+
+- <img src="https://www.biteinteractive.com/wp-content/uploads/2021/05/git-vs-github.png" alt="Git & GitHub" width="40"/>
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="35"/>
+
+- <img src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-2048x1775-2h15dc8k.png" alt="Co-Pilot" width="35"/>
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="35"/>
 
 ## Prerequisites
 
