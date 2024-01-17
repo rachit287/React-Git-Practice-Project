@@ -14,5 +14,3 @@ export default function TabButton({children, onSelect, isSelected}){
 //The li tag is used to create a list of buttons.
 //q: Will that list be vertical or horizontal? Explain.
 
-
-  

@@ -6,4 +6,5 @@ import "./index.css";
 const entryPoint = document.getElementById("root");
 ReactDOM.createRoot(entryPoint).render(<App />);
 
-
+//use Vite for fast server start and HMR (Hot Module Replacement).
+//npm create vite@latest my-react-app --template react
