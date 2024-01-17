@@ -18,3 +18,25 @@ export default function Header() {
     </header>
   );
 }
+
+// export function App()
+// {
+//     const [selectedTopic, setSelectedTopic] = useState(false);
+
+//     function handleClick()
+//     {
+//       setSelectedTopic(true);
+//     }
+
+//     return (
+//       <div>
+//         <section>
+//           <ul>
+//             <li>
+//               <h1 onClick={() => handleClick()}>Work harder than everyone else on the planet.</h1>
+//             </li>
+//           </ul>
+//         </section>
+//       </div>
+//     );
+// }
