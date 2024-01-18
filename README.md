@@ -1,6 +1,6 @@
 # React - Essentials, States, Props, Hooks, etc.
 
-A project that builds the foundation for entering the tech market and allows me creative freedom to try out all the bells and whistles. 
+A project that builds the foundation for entering the tech market and allows me creative freedom to try out all the bells and whistles (and make tons of mistakes!). 
 
 ## Technologies 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="35"/>
@@ -14,6 +14,9 @@ A project that builds the foundation for entering the tech market and allows me 
 - <img src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-2048x1775-2h15dc8k.png" alt="Co-Pilot" width="35"/>
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="JavaScript" width="35"/>
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="ChatGPT" width="35"/>
+
 
 ## Prerequisites
 
